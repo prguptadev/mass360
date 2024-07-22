@@ -41,7 +41,6 @@ static void main(String[] args) {
 
 
     String outputPath = "D:\\ss\\finalDataCSV.csv"
-    println("a")
     List<String> headers = ["cve", "images"]
     Path outputPath1 = Paths.get(outputPath)
 
